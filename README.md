@@ -1,7 +1,12 @@
 # mdplain
 convert markdown string to plain text 转换markdown文本成纯文本
 # install
-download and run the command:
+use pip:
+```
+pip install mdplain
+```
+
+or download and run the command:
 ```
 python setup.py install
 ```
